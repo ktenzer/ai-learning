@@ -1,2 +1,6 @@
 .env
 vector_db
+__pycache__
+wandb
+pricer-*
+*.pkl
